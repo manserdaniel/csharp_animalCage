@@ -1,0 +1,13 @@
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_6\AnimalCage\AnimalCage\bin\Debug\netcoreapp3.1\AnimalCage.exe
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_6\AnimalCage\AnimalCage\bin\Debug\netcoreapp3.1\AnimalCage.deps.json
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_6\AnimalCage\AnimalCage\bin\Debug\netcoreapp3.1\AnimalCage.runtimeconfig.json
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_6\AnimalCage\AnimalCage\bin\Debug\netcoreapp3.1\AnimalCage.runtimeconfig.dev.json
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_6\AnimalCage\AnimalCage\bin\Debug\netcoreapp3.1\AnimalCage.dll
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_6\AnimalCage\AnimalCage\bin\Debug\netcoreapp3.1\AnimalCage.pdb
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_6\AnimalCage\AnimalCage\obj\Debug\netcoreapp3.1\AnimalCage.csprojAssemblyReference.cache
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_6\AnimalCage\AnimalCage\obj\Debug\netcoreapp3.1\AnimalCage.AssemblyInfoInputs.cache
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_6\AnimalCage\AnimalCage\obj\Debug\netcoreapp3.1\AnimalCage.AssemblyInfo.cs
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_6\AnimalCage\AnimalCage\obj\Debug\netcoreapp3.1\AnimalCage.csproj.CoreCompileInputs.cache
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_6\AnimalCage\AnimalCage\obj\Debug\netcoreapp3.1\AnimalCage.dll
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_6\AnimalCage\AnimalCage\obj\Debug\netcoreapp3.1\AnimalCage.pdb
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_6\AnimalCage\AnimalCage\obj\Debug\netcoreapp3.1\AnimalCage.genruntimeconfig.cache

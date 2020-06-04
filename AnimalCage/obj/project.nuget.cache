@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jpSOhC9Z/oF7XiaMBPVLVRxzlKSQsUoEeOx42BxoTxOhg4StiJvUWSNw1WNaUdxo4s3/8B6888KVdzaWjpAYfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\daniel\\Desktop\\CodingCampus\\Spezialisierung_C#\\Übung_6\\AnimalCage\\AnimalCage\\AnimalCage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\daniel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
